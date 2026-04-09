@@ -1,0 +1,40 @@
+{
+    "part_id": "part_5",
+    "file_name": "part_5.step",
+    "volume": 723.4450217099378,
+    "center_of_gravity": {
+        "x": 422.2352005830158,
+        "y": 160.8093035910323,
+        "z": 148.6472902935528
+    },
+    "surface_area": 635.4060362718594,
+    "bounding_box": {
+        "x_min": 414.72928818829274,
+        "y_min": 153.30339326237277,
+        "z_min": 145.24711616444998,
+        "x_max": 429.7411156400865,
+        "y_max": 168.31522071416651,
+        "z_max": 152.04783661731585
+    },
+    "dimensions": {
+        "length_x": 15.01182745179375,
+        "length_y": 15.01182745179375,
+        "length_z": 6.800720452865875,
+        "longest": 15.01182745179375,
+        "middle": 15.01182745179375,
+        "shortest": 6.800720452865875
+    },
+    "topology_counts": {
+        "faces": 18,
+        "edges": 80,
+        "vertices": 160
+    },
+    "surface_categorizations": {
+        "planar_faces": 8,
+        "cylindrical_faces": 2,
+        "conical_faces": 8,
+        "spherical_faces": 0,
+        "toroidal_faces": 0,
+        "other_curved_faces": 0
+    }
+}
