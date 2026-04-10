@@ -1,0 +1,11 @@
+2026-04-10 22:09:38,219 | INFO | Process started
+2026-04-10 22:09:38,219 | INFO | Input file: 2_126.stp
+2026-04-10 22:09:38,260 | INFO | STEP file read successfully
+2026-04-10 22:09:38,426 | INFO | Found 1 top-level assemblies
+2026-04-10 22:09:38,427 | INFO | Processing assembly: ASM-001
+2026-04-10 22:09:38,427 | INFO | Found 2 child components
+2026-04-10 22:09:38,473 | INFO | STEP exported: output_parts/part_1.step
+2026-04-10 22:09:38,516 | INFO | STEP exported: output_parts/part_2.step
+2026-04-10 22:09:38,736 | INFO | BOM Excel saved: output_parts/BOM_Standard.xlsx
+2026-04-10 22:09:38,737 | INFO | Total exported parts: 2
+2026-04-10 22:09:38,737 | INFO | Process completed successfully

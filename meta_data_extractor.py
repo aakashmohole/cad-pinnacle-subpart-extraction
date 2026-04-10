@@ -102,7 +102,7 @@ def extract_part_metadata(filepath):
     
     face_explorer = TopExp_Explorer(shape, TopAbs_FACE)
     while face_explorer.More():
-        current_face = TopoDS.Face(face_explorer.Current())
+        current_face = TopoDS.Face_s(face_explorer.Current())
         surf_adaptor = BRepAdaptor_Surface(current_face)
         geom_type = surf_adaptor.GetType()
         
